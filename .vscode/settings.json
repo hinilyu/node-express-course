@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/4b26a61d-2066-4d33-adf5-727f8cc37518/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/hinilyu-jobs-api",
+  "appService.deploySubpath": "06-jobs-api/starter"
+}
